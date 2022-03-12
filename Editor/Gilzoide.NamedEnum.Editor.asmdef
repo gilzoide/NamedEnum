@@ -1,0 +1,20 @@
+{
+    "name": "Gilzoide.NamedEnum.Editor",
+    "rootNamespace": "Gilzoide.NamedEnum",
+    "references": [
+        "GUID:25eb7fcf0a0aa4cf98d8b0f5ac723517"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

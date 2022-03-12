@@ -1,0 +1,6 @@
+{
+  "name": "com.gilzoide.namedenum",
+  "displayName": "Named Enum",
+  "version": "1.0.0",
+  "description": "Safer alternative to raw enums when used as serialized fields in Unity, maintains the right values after reordering, resistant to code merges."
+}
